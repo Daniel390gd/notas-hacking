@@ -1,7 +1,11 @@
 
 ## Descripción 
 
-Si te dijera una palabra que comienza con 0x70 en hexadecimal, ¿con qué comenzaría en ASCII?
+If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
+
+### pista
+
+Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 
 ## Solución
 
@@ -10,9 +14,8 @@ Convertir el número en hexadecimal a su representación en código ASCII
 - Usar una pagina web hex a ascii
 - Usar una herramienta web como cyberchef
 
-### pista
+![[Pasted image 20250213122039.png]]
 
-Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 
 ```
 picoCTF{p}
