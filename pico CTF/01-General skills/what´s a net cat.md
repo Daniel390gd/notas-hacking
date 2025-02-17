@@ -11,7 +11,7 @@ nc [tutorial]
 Conectarse usando en el webshell `nc jupiter.challenges.picoctf.org 41120`
 
 
-![[Pasted image 20250213122343.png]]
+![[07-what's_a_net_cat.png]]
 
 ```
 picoCTF{nEtCat_Mast3ry_3214be47}

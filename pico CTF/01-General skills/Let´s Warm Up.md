@@ -14,7 +14,7 @@ Convertir el número en hexadecimal a su representación en código ASCII
 - Usar una pagina web hex a ascii
 - Usar una herramienta web como cyberchef
 
-![[Pasted image 20250213122039.png]]
+![[01-Let´s_Warm_Up.png]]
 
 
 ```

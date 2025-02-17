@@ -11,7 +11,7 @@ Convertir el número en hexadecimal a su representación en decimal
 
 - Usar una herramienta web como cyberchef
 
-![[Pasted image 20250213122149.png]]
+![[03-Warmed_Up.png]]
 
 - Usar una pagina web hex a dec
 

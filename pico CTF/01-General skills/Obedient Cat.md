@@ -13,7 +13,7 @@ This file has a flag in plain sight (aka "in-the-clear"). [Download flag](https
 1. Hacer uso de wget para descargar el archivo en la terminal
 2.  Usar el comando cat en el archivo "flag"
 
-![[Pasted image 20250213123548.png]]
+![[06-Obedient_Cat.png]]
 
 ```
 picoCTF{s4n1ty_v3r1f13d_2aa22101}

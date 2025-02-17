@@ -13,6 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "pico CTF/01-General skills/what´s a net cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what´s a net cat"
+            }
+          },
+          {
+            "id": "0b955c6693e16580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Warmed Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warmed Up"
+            }
+          },
+          {
+            "id": "6e376161a59ee4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plumbing"
+            }
+          },
+          {
+            "id": "73f94c3f6b056741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obedient Cat"
+            }
+          },
+          {
+            "id": "39f2bae44ee6e8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "pico CTF/01-General skills/Nice netcat.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +76,105 @@
               "icon": "lucide-file",
               "title": "Nice netcat"
             }
+          },
+          {
+            "id": "8ed37ec87741f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Let´s Warm Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Let´s Warm Up"
+            }
+          },
+          {
+            "id": "f4b369d845db829f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glitch Cat"
+            }
+          },
+          {
+            "id": "78025e8da0820ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glitch Cat"
+            }
+          },
+          {
+            "id": "65901f8c961ce2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Grep"
+            }
+          },
+          {
+            "id": "74d467d12a34aa41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/Bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bases"
+            }
+          },
+          {
+            "id": "784f3d8370d3ed23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pico CTF/01-General skills/2Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2Warm"
+            }
+          },
+          {
+            "id": "31bf63f624d34baf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Capturas/01-General Skills/02-2Warm.png"
+              },
+              "icon": "lucide-image",
+              "title": "02-2Warm"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -168,32 +321,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2dc1d38030c4b5c3",
+  "active": "31bf63f624d34baf",
   "lastOpenFiles": [
-    "pico CTF/01-General skills/what´s a net cat.md",
-    "pico CTF/01-General skills/Warmed Up.md",
-    "pico CTF/01-General skills/Nice netcat.md",
-    "Capturas/01-General Skills/Pasted image 20250213130019.png",
-    "pico CTF/01-General skills/Glitch Cat.md",
-    "pico CTF/01-General skills/plumbing.md",
-    "Plantilla.md",
-    "Capturas/01-General Skills/Pasted image 20250213124813.png",
-    "Capturas/01-General Skills/Pasted image 20250213124500.png",
-    "pico CTF/01-General skills/Obedient Cat.md",
-    "Capturas/01-General Skills/Pasted image 20250213123548.png",
-    "pico CTF/01-General skills/First Grep.md",
-    "Capturas/01-General Skills/Captura de pantalla 2025-02-13 123059.png",
-    "pico CTF/01-General skills/Bases.md",
+    "Capturas/02-General Skills",
     "pico CTF/01-General skills/2Warm.md",
+    "pico CTF/01-General skills/Bases.md",
+    "pico CTF/01-General skills/First Grep.md",
+    "pico CTF/01-General skills/Glitch Cat.md",
     "pico CTF/01-General skills/Let´s Warm Up.md",
-    "Capturas/01-General Skills/Pasted image 20250213122343.png",
-    "Capturas/01-General Skills/Pasted image 20250213122149.png",
-    "Capturas/01-General Skills/Pasted image 20250213122039.png",
-    "Capturas/01-General Skills/Captura de pantalla 2025-02-13 121752.png",
-    "Capturas/01-General Skills/Pasted image 20250213121900.png",
+    "pico CTF/01-General skills/Nice netcat.md",
+    "pico CTF/01-General skills/Obedient Cat.md",
+    "pico CTF/01-General skills/plumbing.md",
+    "pico CTF/01-General skills/Warmed Up.md",
+    "pico CTF/01-General skills/what´s a net cat.md",
+    "Capturas/01-General Skills/02-2Warm.png",
+    "Capturas/01-General Skills/Pasted image 20250213124500.png",
+    "Capturas/01-General Skills/04_Bases.png",
+    "Capturas/01-General Skills/05-First_Grep.png",
+    "Capturas/01-General Skills/09_Glitch_Cat_IMG2.png",
+    "Capturas/01-General Skills/09-Glitch_Cat_IMG1.png",
+    "Capturas/01-General Skills/01-Let´s_Warm_Up.png",
+    "Capturas/01-General Skills/10-Nice_netcat.png",
+    "Capturas/01-General Skills/06-Obedient_Cat.png",
+    "Capturas/01-General Skills/08-plumbing.png",
+    "pico CTF/02-General Skills/Based.md",
+    "pico CTF/02-General Skills/useless.md",
+    "pico CTF/02-General Skills/strings it.md",
+    "pico CTF/02-General Skills/Static ain't always noise.md",
+    "pico CTF/02-General Skills/Wave a flag.md",
+    "pico CTF/02-General Skills/Tab, Tab, Attack.md",
+    "pico CTF/02-General Skills/Magikarp Ground Mission.md",
+    "pico CTF/02-General Skills/First Find.md",
+    "pico CTF/02-General Skills/Big zip.md",
+    "pico CTF/02-General Skills/repetitions.md",
+    "Plantilla.md",
+    "pico CTF/02-General Skills",
+    "pico CTF/02-General Skills.md",
+    "Sin título.md",
     "Capturas/01-General Skills",
     "Capturas",
-    "Sin título.md",
     "pico CTF/01-General skills",
     "pico CTF/01-General skills.md",
     "README.md",

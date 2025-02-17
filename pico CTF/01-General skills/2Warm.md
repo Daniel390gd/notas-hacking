@@ -13,7 +13,7 @@ Convertir el número en decimal a su representación en binario
 - Usar una pagina web decimal a binario
 - Usar una herramienta web como cyberchef
 
-![[Pasted image 20250213121310.png]]
+![[02-2Warm.png]]
 
 ```
 picoCTF{101010}

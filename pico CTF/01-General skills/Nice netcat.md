@@ -12,7 +12,7 @@ There is a nice program that you can talk to by using this command in a shell: 
 1.  conectarse a `$ mercury.picoctf.net 21135` utilizando netcat
 2. Tomamos todos los numeros y convertimos de decimal a ASCII utilizando cyberchef
 
-![[Pasted image 20250213130019.png]]
+![[10-Nice_netcat.png]]
 
 
 ```

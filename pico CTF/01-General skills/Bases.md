@@ -11,7 +11,7 @@ Descifrar el mensaje que esta en base 64
 
 Se usa una herramienta web(cyberchef)
 
-![[Pasted image 20250213121502.png]]
+![[04_Bases.png]]
 
 ```
 picoCTF{l3arn_th3_r0p35}

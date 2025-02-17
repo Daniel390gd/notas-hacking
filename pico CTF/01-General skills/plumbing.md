@@ -15,7 +15,7 @@ Sometimes you need to handle process data outside of a file. Can you find a way 
 4. Usamos cat y una pipeline" |"  con el comando grep para localizar la bandera
 
 
-![[Pasted image 20250213124813.png]]
+![[08-plumbing.png]]
 
 
 ```

@@ -10,7 +10,7 @@ grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 1.  Hacer uso de wget para descargar el archivo en la terminal
 2. hacer uso de grep buscando la cadena pico
 
-![[Captura de pantalla 2025-02-13 123059.png]]
+![[05-First_Grep.png]]
 
 ### pista
 
