@@ -12,12 +12,18 @@ Can you invoke help flags for a tool or binary? [This program](https://mercury.
 - Not every program implements help features like -h and --help.
 ## Solución
 
+- Con el comando wget descargamos el binario
+![[Pasted image 20250218185751.png]]
+- Con el comando chmod le daremos permisos de ejecución
+![[Pasted image 20250218185911.png]]
+- Ejecutamos el programa con -h
+![[Captura de pantalla 2025-02-18 190004.png]]
 
 
 
 
 ```
-
+picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}
 ```
 
 ## Notas adicionales
@@ -25,4 +31,3 @@ Can you invoke help flags for a tool or binary? [This program](https://mercury.
 
 ## Referencias
 
-- 
