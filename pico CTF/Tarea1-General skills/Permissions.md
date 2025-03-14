@@ -4,6 +4,7 @@
 
 ### pista
 
+- What permissions do you have?
 ## Solución
 
 

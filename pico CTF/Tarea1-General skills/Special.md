@@ -4,6 +4,8 @@
 
 ### pista
 
+- Experiment with different shell syntax
+
 ## Solución
 
 

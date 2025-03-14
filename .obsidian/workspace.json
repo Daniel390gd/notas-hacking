@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pico CTF/03-General skills/Super SSH.md",
+                "file": "pico CTF/Tarea1-General skills/Blame Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Super SSH"
+              "title": "Blame Game"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "fc176c5eaa02f2da",
   "lastOpenFiles": [
+    "Capturas/Tarea1-General Skills/06-Blame_Game.png",
+    "pico CTF/Tarea1-General skills/Blame Game.md",
+    "pico CTF/Tarea1-General skills/Time Machine.md",
+    "pico CTF/Tarea1-General skills/Commitment Issues.md",
+    "pico CTF/Tarea1-General skills/Special.md",
+    "Capturas/Tarea1-General Skills/02-chrono.png",
+    "pico CTF/Tarea1-General skills/chrono.md",
+    "pico CTF/Tarea1-General skills/Permissions.md",
+    "pico CTF/03-General skills/Super SSH.md",
     "pico CTF/03-General skills/Serpentine.md",
     "pico CTF/03-General skills/runme.py.md",
     "pico CTF/03-General skills/PW Crack 3.md",
@@ -184,16 +193,7 @@
     "Capturas/03-General Skills/09-PW-Crack3_IMG4.png",
     "Capturas/03-General Skills/09-PW-Crack3_IMG5.png",
     "Pasted image 20250307123841.png",
-    "pico CTF/03-General skills/Super SSH.md",
-    "pico CTF/Tarea1-General skills/Time Machine.md",
     "Capturas/Tarea1-General Skills/05-Time_Machine.png",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1 1.md",
-    "Capturas/Tarea1-General Skills/04-Commitment_Issues_IMG1.png",
-    "Capturas/Tarea1-General Skills/04-Commitment_Issues_IMG3.png",
-    "pico CTF/Tarea1-General skills/Commitment Issues.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1 1 1 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1 1 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1 1 1.md",
     "pico CTF/Tarea1-General skills/Plantilla 1 1 1.md",
     "pico CTF/Tarea1-General skills/Plantilla 1 1.md",
     "pico CTF/Tarea1-General skills/Plantilla 1.md",
