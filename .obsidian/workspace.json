@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Tarea1-General Skills/01-Permissions_IMG1.png"
+                "file": "Capturas/Tarea1-General Skills/09-binhexa_IMG1.png"
               },
               "icon": "lucide-image",
-              "title": "01-Permissions_IMG1"
+              "title": "09-binhexa_IMG1"
             }
           }
         ]
@@ -168,24 +168,26 @@
   },
   "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
-    "Capturas/Tarea1-General Skills/01-Permissions_IMG2.png",
-    "Capturas/Tarea1-General Skills/01-Permissions_IMG3.png",
-    "Capturas/Tarea1-General Skills/01-Permissions_IMG4.png",
+    "Capturas/Tarea1-General Skills/09-binhexa_IMG2.png",
+    "Capturas/Tarea1-General Skills/09-binhexa_IMG3.png",
+    "pico CTF/Tarea1-General skills/binhexa.md",
+    "Capturas/Tarea1-General Skills/09-binhexa_IMG1.png",
+    "Capturas/Tarea1-General Skills/08-Binary-Search.png",
+    "pico CTF/Tarea1-General skills/Binary Search.md",
+    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG1.png",
+    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG2.png",
+    "pico CTF/Tarea1-General skills/Collaborative Development.md",
+    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG3.png",
+    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG4.png",
     "Capturas/Tarea1-General Skills/01-Permissions_IMG1.png",
-    "Pasted image 20250307123841.png",
+    "Capturas/Tarea1-General Skills/01-Permissions_IMG2.png",
     "pico CTF/Tarea1-General skills/Permissions.md",
     "pico CTF/Tarea1-General skills/chrono.md",
     "pico CTF/Tarea1-General skills/Blame Game.md",
     "pico CTF/Tarea1-General skills/ASCII Numbers.md",
-    "Capturas/Tarea1-General Skills/03-Special.png",
     "pico CTF/Tarea1-General skills/Special.md",
     "pico CTF/Tarea1-General skills/Time Machine.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1.md",
-    "Capturas/Tarea1-General Skills/06-Blame_Game.png",
     "pico CTF/Tarea1-General skills/Commitment Issues.md",
-    "Capturas/Tarea1-General Skills/02-chrono.png",
     "pico CTF/03-General skills/Super SSH.md",
     "pico CTF/03-General skills/Serpentine.md",
     "pico CTF/03-General skills/runme.py.md",
@@ -194,9 +196,6 @@
     "pico CTF/03-General skills/fixme1.py.md",
     "pico CTF/03-General skills/convertme.py.md",
     "pico CTF/03-General skills/Codebook.md",
-    "Capturas/03-General Skills/01-Super-SSH.png",
-    "Capturas/03-General Skills/09-PW-Crack3_IMG1.png",
-    "Capturas/03-General Skills/09-PW-Crack3_IMG2.png",
     "Plantilla.md",
     "pico CTF/03-General skills/PW Crack 2.md",
     "pico CTF/03-General skills/PW Crack 1.md",
