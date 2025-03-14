@@ -11,14 +11,12 @@
             "id": "fc176c5eaa02f2da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pico CTF/Tarea1-General skills/Blame Game.md",
-                "mode": "source",
-                "source": false
+                "file": "Capturas/Tarea1-General Skills/01-Permissions_IMG1.png"
               },
-              "icon": "lucide-file",
-              "title": "Blame Game"
+              "icon": "lucide-image",
+              "title": "01-Permissions_IMG1"
             }
           }
         ]
@@ -168,16 +166,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc176c5eaa02f2da",
+  "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
-    "Capturas/Tarea1-General Skills/06-Blame_Game.png",
-    "pico CTF/Tarea1-General skills/Blame Game.md",
-    "pico CTF/Tarea1-General skills/Time Machine.md",
-    "pico CTF/Tarea1-General skills/Commitment Issues.md",
-    "pico CTF/Tarea1-General skills/Special.md",
-    "Capturas/Tarea1-General Skills/02-chrono.png",
-    "pico CTF/Tarea1-General skills/chrono.md",
+    "Capturas/Tarea1-General Skills/01-Permissions_IMG2.png",
+    "Capturas/Tarea1-General Skills/01-Permissions_IMG3.png",
+    "Capturas/Tarea1-General Skills/01-Permissions_IMG4.png",
+    "Capturas/Tarea1-General Skills/01-Permissions_IMG1.png",
+    "Pasted image 20250307123841.png",
     "pico CTF/Tarea1-General skills/Permissions.md",
+    "pico CTF/Tarea1-General skills/chrono.md",
+    "pico CTF/Tarea1-General skills/Blame Game.md",
+    "pico CTF/Tarea1-General skills/ASCII Numbers.md",
+    "Capturas/Tarea1-General Skills/03-Special.png",
+    "pico CTF/Tarea1-General skills/Special.md",
+    "pico CTF/Tarea1-General skills/Time Machine.md",
+    "pico CTF/Tarea1-General skills/Plantilla 1 1 1.md",
+    "pico CTF/Tarea1-General skills/Plantilla 1 1.md",
+    "pico CTF/Tarea1-General skills/Plantilla 1.md",
+    "Capturas/Tarea1-General Skills/06-Blame_Game.png",
+    "pico CTF/Tarea1-General skills/Commitment Issues.md",
+    "Capturas/Tarea1-General Skills/02-chrono.png",
     "pico CTF/03-General skills/Super SSH.md",
     "pico CTF/03-General skills/Serpentine.md",
     "pico CTF/03-General skills/runme.py.md",
@@ -189,18 +197,9 @@
     "Capturas/03-General Skills/01-Super-SSH.png",
     "Capturas/03-General Skills/09-PW-Crack3_IMG1.png",
     "Capturas/03-General Skills/09-PW-Crack3_IMG2.png",
-    "Capturas/03-General Skills/09-PW-Crack3_IMG3.png",
-    "Capturas/03-General Skills/09-PW-Crack3_IMG4.png",
-    "Capturas/03-General Skills/09-PW-Crack3_IMG5.png",
-    "Pasted image 20250307123841.png",
-    "Capturas/Tarea1-General Skills/05-Time_Machine.png",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1 1.md",
-    "pico CTF/Tarea1-General skills/Plantilla 1.md",
     "Plantilla.md",
     "pico CTF/03-General skills/PW Crack 2.md",
     "pico CTF/03-General skills/PW Crack 1.md",
-    "pico CTF/Tarea1-General skills/ASCII Numbers.md",
     "pico CTF/Concurso Pico CTF 2025/FANTASY CTF.md",
     "pico CTF/Tarea1-General skills",
     "Capturas/Tarea1-General Skills",
