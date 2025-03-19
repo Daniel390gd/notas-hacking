@@ -11,12 +11,14 @@
             "id": "fc176c5eaa02f2da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Capturas/Tarea1-General Skills/09-binhexa_IMG1.png"
+                "file": "pico CTF/Web 1/dont-use-client-side.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "09-binhexa_IMG1"
+              "icon": "lucide-file",
+              "title": "dont-use-client-side"
             }
           }
         ]
@@ -166,21 +168,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "43ac6c7abec3eb79",
+  "active": "fc176c5eaa02f2da",
   "lastOpenFiles": [
-    "Capturas/Tarea1-General Skills/09-binhexa_IMG2.png",
-    "Capturas/Tarea1-General Skills/09-binhexa_IMG3.png",
+    "Captura de pantalla 2025-03-19 083457.png",
+    "Pasted image 20250319084234.png",
+    "pico CTF/Web 1/Insp3ct0r.md",
+    "Pasted image 20250319082707.png",
+    "Pasted image 20250319082615.png",
+    "Pasted image 20250319082522.png",
+    "Pasted image 20250319082348.png",
+    "Pasted image 20250319082331.png",
+    "pico CTF/Web 1/Plantilla 1 5.md",
+    "pico CTF/Web 1/Plantilla 1 4.md",
+    "pico CTF/Web 1/Plantilla 1 3.md",
+    "pico CTF/Web 1/Plantilla 1 2.md",
+    "pico CTF/Web 1/dont-use-client-side.md",
+    "Plantilla.md",
+    "Pasted image 20250315185704.png",
+    "pico CTF/Web 1",
+    "Pasted image 20250315185640.png",
+    "Pasted image 20250315185508.png",
+    "Pasted image 20250315185333.png",
+    "pico CTF/Concurso Pico CTF 2025/head-dump.md",
     "pico CTF/Tarea1-General skills/binhexa.md",
-    "Capturas/Tarea1-General Skills/09-binhexa_IMG1.png",
-    "Capturas/Tarea1-General Skills/08-Binary-Search.png",
     "pico CTF/Tarea1-General skills/Binary Search.md",
-    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG1.png",
-    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG2.png",
     "pico CTF/Tarea1-General skills/Collaborative Development.md",
-    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG3.png",
-    "Capturas/Tarea1-General Skills/07-Collaborative-Development_IMG4.png",
-    "Capturas/Tarea1-General Skills/01-Permissions_IMG1.png",
-    "Capturas/Tarea1-General Skills/01-Permissions_IMG2.png",
     "pico CTF/Tarea1-General skills/Permissions.md",
     "pico CTF/Tarea1-General skills/chrono.md",
     "pico CTF/Tarea1-General skills/Blame Game.md",
@@ -195,23 +207,14 @@
     "pico CTF/03-General skills/fixme2.py.md",
     "pico CTF/03-General skills/fixme1.py.md",
     "pico CTF/03-General skills/convertme.py.md",
-    "pico CTF/03-General skills/Codebook.md",
-    "Plantilla.md",
-    "pico CTF/03-General skills/PW Crack 2.md",
-    "pico CTF/03-General skills/PW Crack 1.md",
-    "pico CTF/Concurso Pico CTF 2025/FANTASY CTF.md",
     "pico CTF/Tarea1-General skills",
     "Capturas/Tarea1-General Skills",
     "Capturas/03-General Skills",
-    "pico CTF/02-General Skills/Based.md",
-    "pico CTF/Concurso Pico CTF 2025/Rust fixme 1.md",
     "pico CTF/03-General skills",
-    "pico CTF/02-General Skills/useless.md",
     "pico CTF/Concurso Pico CTF 2025",
     "Capturas/02-General Skills",
     "pico CTF/02-General Skills",
     "Capturas/01-General Skills",
-    "Capturas",
-    "pico CTF/01-General skills"
+    "Capturas"
   ]
 }
