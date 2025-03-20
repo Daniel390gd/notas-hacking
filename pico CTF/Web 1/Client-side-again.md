@@ -8,14 +8,14 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
 ## Solución
 
 - Entramos a la pagina dada en la descripción.
-![[Pasted image 20250319231342.png]]
+![[06-Client-side-again_IMG1.png]]
 - Inspeccionamos en la pagina y vemos que el código del método verify() esta ofuscado.
-![[Pasted image 20250319231417.png]]
+![[06-Client-side-again_IMG2.png]]
 - Copiamos el código y usamos JS nice para desofuscarlo
-![[Pasted image 20250319231855.png]]
+![[06-Client-side-again_IMG3.png]]
 - Tomamos la variable "_0x5a46" y la pegamos en la consola.
 -  A partir del arreglo formamos la bandera.
-![[Pasted image 20250319232420.png]]
+![[06-Client-side-again_IMG4.png]]
 
 
 

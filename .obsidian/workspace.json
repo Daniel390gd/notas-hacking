@@ -11,14 +11,12 @@
             "id": "fc176c5eaa02f2da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pico CTF/Web 1/picobrowser.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250315185704.png"
               },
-              "icon": "lucide-file",
-              "title": "picobrowser"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250315185704"
             }
           }
         ]
@@ -170,24 +168,24 @@
   },
   "active": "fc176c5eaa02f2da",
   "lastOpenFiles": [
-    "Pasted image 20250319232931.png",
-    "Pasted image 20250319232548.png",
-    "pico CTF/Web 1/Client-side-again.md",
-    "Pasted image 20250319232420.png",
-    "Pasted image 20250319231855.png",
+    "Capturas/Web 1/03-logon_IMG1.png",
+    "Capturas/Web 1/06-Client-side-again_IMG1.png",
     "Pasted image 20250319231846.png",
-    "Pasted image 20250319231417.png",
-    "Pasted image 20250319231342.png",
-    "pico CTF/Web 1/logon.md",
-    "Captura de pantalla 2025-03-19 230649.png",
-    "Captura de pantalla 2025-03-19 230638.png",
-    "Pasted image 20250319230328.png",
-    "Pasted image 20250319230245.png",
-    "pico CTF/Web 1/Insp3ct0r.md",
+    "Capturas/Web 1/06-Client-side-again_IMG2.png",
+    "pico CTF/Web 1/Client-side-again.md",
+    "Capturas/Web 1/06-Client-side-again_IMG4.png",
+    "Capturas/Web 1/06-Client-side-again_IMG3.png",
+    "Capturas/Web 1/05-picobrowser_IMG3.png",
     "pico CTF/Web 1/dont-use-client-side.md",
-    "Capturas/Web 1",
     "pico CTF/Web 1/where are the robots.md",
     "pico CTF/Web 1/picobrowser.md",
+    "Capturas/Web 1/05-picobrowser_IMG2.png",
+    "Capturas/Web 1/05-picobrowser_IMG1.png",
+    "Pasted image 20250307122749.png",
+    "pico CTF/Web 1/logon.md",
+    "Capturas/Web 1/03-logon_IMG5.png",
+    "pico CTF/Web 1/Insp3ct0r.md",
+    "Capturas/Web 1",
     "Plantilla.md",
     "pico CTF/Web 1",
     "pico CTF/Concurso Pico CTF 2025/head-dump.md",

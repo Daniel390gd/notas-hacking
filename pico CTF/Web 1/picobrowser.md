@@ -8,24 +8,24 @@ This website can be rendered only by **picobrowser**, go and catch the flag! `
 ## Solución
 
 - Entramos a la pagina dada en la descripción.
-![[Pasted image 20250319232548.png]]
+![[05-picobrowser_IMG1.png]]
 - Presionamos el botón flag y nos sale lo siguiente:
-![[Pasted image 20250319232931.png]]
+![[05-picobrowser_IMG2.png]]
 - Inspeccionando vemos las request y vemos los de flag.
 - Cambiamos el valor de user-Agent a picobrowser.
 - Checamos el request y le damos a response
 - Ya tenemos la bandera.
-
+![[05-picobrowser_IMG3.png]]
 
 
 
 ```
-picoCTF{}
+picoCTF{p1c0_s3cr3t_ag3nt_51414fa7}
 ```
 
 ## Notas adicionales
 
-
+Las primeras 2 imágenes fueron en el navegador Edge pero como no encontré forma de modificar el user-Agent opte por hacerlo en mi maquina virtual usando otro navegador
 ## Referencias
 
-- 
+- https://youtu.be/9d6-N0oJwOk?si=saaptAsQMfhQGGHY

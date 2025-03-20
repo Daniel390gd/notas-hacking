@@ -8,15 +8,15 @@ The factory is hiding things from all of its users. Can you login as Joe and fin
 ## Solución
 
 - Entramos en la pagina dada por la descripción.
-![[Pasted image 20250319230202.png]]
+![[03-logon_IMG1.png]]
 - Usamos como nombre de usuario admin y cualquier contraseña para intentar acceder.
-![[Pasted image 20250319230245.png]]
+![[03-logon_IMG2.png]]
 - Observamos que aparece en la pagina que la bandera no esta disponible para nosotros.
-![[Pasted image 20250319230328.png]]
+![[03-logon_IMG3.png]]
 - Vamos a inspeccionar y buscar las cookies, vemos que la de admin esta en "false" la modificamos a true.
-![[Captura de pantalla 2025-03-19 230638.png]]
+![[03-logon_IMG4.png]]
 - Recargamos la pagina y vemos que ahora si aparece la bandera.
-![[Captura de pantalla 2025-03-19 230649.png]]
+![[03-logon_IMG5.png]]
 
 
 
