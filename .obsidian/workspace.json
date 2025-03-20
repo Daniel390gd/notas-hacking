@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pico CTF/Web 1/Plantilla 1 4.md",
+                "file": "pico CTF/Web 1/picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla 1 4"
+              "title": "picobrowser"
             }
           }
         ]
@@ -170,22 +170,24 @@
   },
   "active": "fc176c5eaa02f2da",
   "lastOpenFiles": [
-    "pico CTF/Web 1/where are the robots.md",
-    "pico CTF/Web 1/Plantilla 1 4.md",
-    "pico CTF/Web 1/dont-use-client-side.md",
+    "Pasted image 20250319232931.png",
+    "Pasted image 20250319232548.png",
+    "pico CTF/Web 1/Client-side-again.md",
+    "Pasted image 20250319232420.png",
+    "Pasted image 20250319231855.png",
+    "Pasted image 20250319231846.png",
+    "Pasted image 20250319231417.png",
+    "Pasted image 20250319231342.png",
+    "pico CTF/Web 1/logon.md",
+    "Captura de pantalla 2025-03-19 230649.png",
+    "Captura de pantalla 2025-03-19 230638.png",
+    "Pasted image 20250319230328.png",
+    "Pasted image 20250319230245.png",
     "pico CTF/Web 1/Insp3ct0r.md",
-    "pico CTF/Web 1/Plantilla 1 2.md",
-    "pico CTF/Web 1/Plantilla 1 3.md",
-    "Captura de pantalla 2025-03-19 123559.png",
-    "Captura de pantalla 2025-03-19 123540.png",
-    "Captura de pantalla 2025-03-19 123525.png",
-    "Captura de pantalla 2025-03-19 083457.png",
-    "Pasted image 20250319084234.png",
-    "Pasted image 20250319082707.png",
-    "Pasted image 20250319082615.png",
-    "Pasted image 20250319082522.png",
-    "Pasted image 20250319082348.png",
-    "Pasted image 20250319082331.png",
+    "pico CTF/Web 1/dont-use-client-side.md",
+    "Capturas/Web 1",
+    "pico CTF/Web 1/where are the robots.md",
+    "pico CTF/Web 1/picobrowser.md",
     "Plantilla.md",
     "pico CTF/Web 1",
     "pico CTF/Concurso Pico CTF 2025/head-dump.md",
@@ -213,7 +215,6 @@
     "pico CTF/Concurso Pico CTF 2025",
     "Capturas/02-General Skills",
     "pico CTF/02-General Skills",
-    "Capturas/01-General Skills",
-    "Capturas"
+    "Capturas/01-General Skills"
   ]
 }

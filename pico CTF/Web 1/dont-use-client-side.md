@@ -8,10 +8,10 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
 ## Solución
 
 - Ingresamos a la pagina dada en la descripción.
-![[Pasted image 20250319084234.png]]
+![[04-dont-use-client-side_IMG1.png]]
 - Vemos la pagina y inspeccionamos en busca de algo que nos ayude.
 - Vemos que esta la bandera en una función llamada verify(), es decir que la contraseña del login de la pagina es la bandera.
-![[Captura de pantalla 2025-03-19 083457.png]]
+![[04-dont-use-client-side_IMG2.png]]
 - Unimos las distintas partes de la bandera.
 
 

@@ -8,11 +8,11 @@ Can you find the robots? `https://jupiter.challenges.picoctf.org/problem/56830/
 ## Solución
 
 - Ingresamos a la pagina dada en la descripción.
-![[Captura de pantalla 2025-03-19 123525.png]]
+![[02-where-are-the-robots_IMG1.png]]
 - A la URL le agregamos robot.txt
-![[Captura de pantalla 2025-03-19 123540.png]]
+![[02-where-are-the-robots_IMG2.png]]
 - Vemos lo que nos dice y con eso en la URL cambiamos robots.txt por lo de abajo.
-![[Captura de pantalla 2025-03-19 123559.png]]
+![[02-where-are-the-robots_IMG3.png]]
 
 
 

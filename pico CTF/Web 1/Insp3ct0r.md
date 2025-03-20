@@ -9,15 +9,15 @@ Kishor Balan tipped us off that the following code may need inspection: `https:
 ## Solución
 
 - Ingresamos a la pagina dada en la descirpción.
-![[Pasted image 20250319082331.png]]
+![[01-Insp3ct0r_IMG1.png]]
 - Damos click derecho y buscamos la opción que dice "inspeccionar".
-![[Pasted image 20250319082348.png]]
+![[01-Insp3ct0r_IMG2.png]]
 - Observamos el código html y vemos que esta comentada una parte de la bandera.
-![[Pasted image 20250319082522.png]]
+![[01-Insp3ct0r_IMG3.png]]
 - Nos vamos a la pestaña de fuentes y vemos otros 2 archivos a parte del html.
-![[Pasted image 20250319082615.png]]
+![[01-Insp3ct0r_IMG4.png]]
 - Buscamos en otro archivo y en este caso obtuve del archivo myjs.js la 3° parte de la bandera.
-![[Pasted image 20250319082707.png]]
+![[01-Insp3ct0r_IMG5.png]]
 - Revisamos el archivo mycss.css y vemos que tiene la 2° parte de la bandera.
 - Unimos las 3 partes.
 
