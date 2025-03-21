@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250315185704.png"
+                "file": "Capturas/Web 2/01-GET-aHEAD_IMG4.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250315185704"
+              "title": "01-GET-aHEAD_IMG4"
             }
           }
         ]
@@ -168,22 +168,27 @@
   },
   "active": "fc176c5eaa02f2da",
   "lastOpenFiles": [
-    "Capturas/Web 1/03-logon_IMG1.png",
-    "Capturas/Web 1/06-Client-side-again_IMG1.png",
-    "Pasted image 20250319231846.png",
-    "Capturas/Web 1/06-Client-side-again_IMG2.png",
+    "Capturas/Web 2/01-GET-aHEAD_IMG3.png",
+    "Capturas/Web 2/01-GET-aHEAD_IMG2.png",
+    "Capturas/Web 2/01-GET-aHEAD_IMG1.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG6.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG5.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG4.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG3.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG2.png",
+    "Capturas/Web 2/03-Scavenger-Hunt_IMG1.png",
+    "Capturas/Web 2/02-Cookies_IMG2.png",
+    "Capturas/Web 2/02-Cookies_IMG1.png",
+    "pico CTF/Web 2/Scavenger Hunt.md",
+    "pico CTF/Web 2/Cookies.md",
+    "pico CTF/Web 2/GET aHEAD.md",
+    "pico CTF/Web 2",
+    "Capturas/Web 2",
     "pico CTF/Web 1/Client-side-again.md",
-    "Capturas/Web 1/06-Client-side-again_IMG4.png",
-    "Capturas/Web 1/06-Client-side-again_IMG3.png",
-    "Capturas/Web 1/05-picobrowser_IMG3.png",
     "pico CTF/Web 1/dont-use-client-side.md",
     "pico CTF/Web 1/where are the robots.md",
     "pico CTF/Web 1/picobrowser.md",
-    "Capturas/Web 1/05-picobrowser_IMG2.png",
-    "Capturas/Web 1/05-picobrowser_IMG1.png",
-    "Pasted image 20250307122749.png",
     "pico CTF/Web 1/logon.md",
-    "Capturas/Web 1/03-logon_IMG5.png",
     "pico CTF/Web 1/Insp3ct0r.md",
     "Capturas/Web 1",
     "Plantilla.md",
@@ -203,16 +208,11 @@
     "pico CTF/03-General skills/Serpentine.md",
     "pico CTF/03-General skills/runme.py.md",
     "pico CTF/03-General skills/PW Crack 3.md",
-    "pico CTF/03-General skills/fixme2.py.md",
-    "pico CTF/03-General skills/fixme1.py.md",
-    "pico CTF/03-General skills/convertme.py.md",
     "pico CTF/Tarea1-General skills",
     "Capturas/Tarea1-General Skills",
     "Capturas/03-General Skills",
     "pico CTF/03-General skills",
     "pico CTF/Concurso Pico CTF 2025",
-    "Capturas/02-General Skills",
-    "pico CTF/02-General Skills",
-    "Capturas/01-General Skills"
+    "Capturas/02-General Skills"
   ]
 }
