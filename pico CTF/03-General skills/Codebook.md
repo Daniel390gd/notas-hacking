@@ -22,10 +22,3 @@ Run the Python script `code.py` in the same directory as `codebook.txt`.
 ```
 picoCTF{c0d3b00k_455157_7d102d7a}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

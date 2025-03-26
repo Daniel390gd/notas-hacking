@@ -23,5 +23,3 @@ picoCTF{d15a5m_t34s3r_98d35619}
 ## Notas adicionales
 
 En el ultimo paso sería mas optimo usar el comando grep pero como alcance a ver la flag se omitió el comando.
-## Referencias
-

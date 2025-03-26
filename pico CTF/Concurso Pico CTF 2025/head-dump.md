@@ -9,16 +9,15 @@ Welcome to the challenge! In this challenge, you will explore a web application 
 ## Solución
 
 - Observamos la pagina y nos vamos a un "apartado que dice "Explore backend development with us"
-![[Pasted image 20250315185333.png]]
+![[head-dump_IMG1.png]]
 - Entre los links que tiene hay uno que dice #API Documentation, le damos click.
 - En la pagina que nos cargo vemos algunas funciones, nos vamos hasta abajo en la que dice "Diagnosing".
-![[Pasted image 20250315185508.png]]
+![[head-dump_IMG2.png]]
 - Le damos al boton Try it out y a execute.
 - Descargamos el archivo.
-![[Pasted image 20250315185640.png]]
+![[head-dump_IMG3.png]]
 - Abrimos el archivo y en el buscamos la bandera.
-![[Pasted image 20250315185704.png]]
-
+![[head-dump_IMG4.png]]
 
 
 
@@ -26,10 +25,3 @@ Welcome to the challenge! In this challenge, you will explore a web application 
 ```
 picoCTF{Pat!3nt_15_Th3_K3y_388d10f7}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

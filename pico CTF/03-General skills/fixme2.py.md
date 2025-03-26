@@ -24,10 +24,3 @@ Fix the syntax error in the Python script to print the flag.[Download Python scr
 ```
 picoCTF{3qu4l1ty_n0t_4551gnm3nt_e8814d03}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

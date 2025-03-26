@@ -22,10 +22,3 @@ Can you crack the password to get the flag?Download the password checker [here]
 ```
 picoCTF{545h_r1ng1ng_fa343060}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

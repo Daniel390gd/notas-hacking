@@ -33,9 +33,6 @@ Can you crack the password to get the flag?Download the password checker [here]
 picoCTF{m45h_fl1ng1ng_cd6ed2eb}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [Decrypt MD5, SHA1, MySQL, NTLM, SHA256, MD5 Email, SHA256 Email, SHA512, Wordpress, Bcrypt hashes for free online](https://hashes.com/en/decrypt/hash)

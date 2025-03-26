@@ -25,9 +25,6 @@ Can you read files in the root file?The system admin has provisioned an account 
 picoCTF{uS1ng_v1m_3dit0r_021d10ab}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - https://youtu.be/ZCM8pLNE2TE?si=t0WPBRcSSAAEA9FY

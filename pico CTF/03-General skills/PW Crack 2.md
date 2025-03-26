@@ -24,9 +24,6 @@ Can you crack the password to get the flag?Download the password checker [here]
 picoCTF{tr45h_51ng1ng_9701e681}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [CyberChef](https://cyberchef.org/)

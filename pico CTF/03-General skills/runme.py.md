@@ -20,9 +20,3 @@ Run the `runme.py` script to get the flag. Download the script with your brows
 ```
 picoCTF{run_s4n1ty_run}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-

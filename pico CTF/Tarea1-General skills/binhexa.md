@@ -15,13 +15,9 @@ How well can you perfom basic binary operations?Start searching for the flag her
 
 
 
-
 ```
 picoCTF{b1tw^3se_0p3eR@tI0n_su33essFuL_d6f8047e}
 ```
-
-## Notas adicionales
-
 
 ## Referencias
 

@@ -4,7 +4,7 @@
 This website can be rendered only by **picobrowser**, go and catch the flag! `https://jupiter.challenges.picoctf.org/problem/50522/` ([link](https://jupiter.challenges.picoctf.org/problem/50522/)) or http://jupiter.challenges.picoctf.org:50522
 ### pista
 
-- You don't need to download a new web browser
+You don't need to download a new web browser
 ## Solución
 
 - Entramos a la pagina dada en la descripción.

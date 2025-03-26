@@ -9,9 +9,6 @@ Port: 64057
 Username: picoplayer 
 Password: ENAFb6zfzn
 ```
-### pista
-
-
 ## Solución
 
 - Nos conectamos al servidor con los datos que nos da la descripción.
@@ -23,9 +20,6 @@ Password: ENAFb6zfzn
 ```
 picoCTF{Sch3DUL7NG_T45K3_L1NUX_1d781160}
 ```
-
-## Notas adicionales
-
 
 ## Referencias
 

@@ -21,9 +21,6 @@ Vemos que nos pide la contraseña, la cual viene en la descripción del desafio,
 picoCTF{s3cur3_c0nn3ct10n_65a7a106}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [ssh(1): OpenSSH SSH client - Linux man page](https://linux.die.net/man/1/ssh) 

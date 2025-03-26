@@ -22,10 +22,3 @@ Want to play a game? As you use more of the shell, you might be interested in ho
 ```
 picoCTF{g00d_gu355_3af33d18}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

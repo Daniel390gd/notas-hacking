@@ -19,8 +19,3 @@ Multiple decoding is always good.
 picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_4557ec3e}
 ```
 
-## Notas adicionales
-
-
-## Referencias
-

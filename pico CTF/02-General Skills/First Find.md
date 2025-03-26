@@ -21,9 +21,6 @@ Unzip this archive and find the file named 'uber-secret.txt'
 picoCTF{f1nd_15_f457_ab443fd1}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [Cómo encontrar un archivo en Linux desde la línea de comandos - Blog de SW Hosting](https://www.swhosting.com/es/blog/como-encontrar-un-archivo-en-linux-desde-la-linea-de-comandos)

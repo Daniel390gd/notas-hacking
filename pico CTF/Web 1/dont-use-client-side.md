@@ -4,7 +4,7 @@
 Can you break into this super secure portal? `https://jupiter.challenges.picoctf.org/problem/29835/` ([link](https://jupiter.challenges.picoctf.org/problem/29835/)) or http://jupiter.challenges.picoctf.org:29835
 ### pista
 
-- Never trust the client
+Never trust the client
 ## Solución
 
 - Ingresamos a la pagina dada en la descripción.
@@ -24,6 +24,3 @@ picoCTF{no_clients_plz_7723ce}
 ## Notas adicionales
 
 Basarse en los números para formar correctamente la bandera.
-## Referencias
-
-- 

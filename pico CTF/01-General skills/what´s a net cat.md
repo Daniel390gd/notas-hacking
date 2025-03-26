@@ -17,9 +17,6 @@ Conectarse usando en el webshell `nc jupiter.challenges.picoctf.org 41120`
 picoCTF{nEtCat_Mast3ry_3214be47}
 ```
 
-## Notas adicionales
-
-- 
 ## Referencias
 
 - [nc(1): arbitrary TCP/UDP connections/listens - Linux man page](https://linux.die.net/man/1/nc)

@@ -26,10 +26,3 @@ Find the flag in the Python script![Download Python script](https://artifacts.pi
 ```
 picoCTF{7h3_r04d_l355_7r4v3l3d_ae0b80bd}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

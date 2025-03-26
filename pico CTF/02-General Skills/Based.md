@@ -28,9 +28,6 @@ To get truly 1337, you must understand different data encodings, such as hexadec
 picoCTF{learning_about_converting_values_02167de8}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [CyberChef](https://cyberchef.org/)

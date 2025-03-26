@@ -22,9 +22,6 @@ Our flag printing service has started glitching!`$ nc saturn.picoctf.net 59227`
 picoCTF{gl17ch_m3_n07_bda68f75}
 ```
 
-## Notas adicionales
-
-- 
 ## Referencias
 
 - [picoCTF - picoGym Challenges]

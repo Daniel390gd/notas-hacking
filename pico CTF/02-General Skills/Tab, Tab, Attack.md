@@ -20,9 +20,3 @@ After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Ta
 ```
 picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-

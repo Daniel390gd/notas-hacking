@@ -19,9 +19,6 @@ There is a nice program that you can talk to by using this command in a shell: 
 picoCTF{g00d_k1tty!_n1c3_k1tty!_afd5fda4}
 ```
 
-## Notas adicionales
-
--  
 ## Referencias
 
 - - [CyberChef](https://cyberche)

@@ -20,9 +20,6 @@ Can grep be instructed to look at every file in a directory and its subdirectori
 picoCTF{gr3p_15_m4g1c_ef8790dc}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [Tutorial del comando Grep – Cómo buscar un archivo en Linux y Unix con búsqueda recursiva](https://www.freecodecamp.org/espanol/news/grep-command-tutorial-how-to-search-for-a-file-in-linux-and-unix-with-recursive-find/)

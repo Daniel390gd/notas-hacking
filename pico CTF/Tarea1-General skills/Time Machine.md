@@ -24,10 +24,3 @@ What was I last working on? I remember writing a note to help me remember...You 
 ```
 picoCTF{t1m3m@ch1n3_88c35e3b}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

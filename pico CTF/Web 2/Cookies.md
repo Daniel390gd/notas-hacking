@@ -17,9 +17,6 @@ Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoc
 picoCTF{3v3ry1_l0v3s_c00k135_064663be}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - https://youtu.be/LseQ-XWCXVo?si=_z0pT-4r9S1HRYZM

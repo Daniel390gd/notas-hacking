@@ -16,13 +16,8 @@ grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
 grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
+
+
 ```
 picoCTF{grep_is_good_to_find_things_5af9d829}
 ```
-
-## Notas adicionales
-
-- 
-## Referencias
-
-- 

@@ -18,6 +18,7 @@ Have you heard of Rust? Fix the syntax errors in this Rust file to print the fla
 - En otra parte del programa quitamos la variable ret y lo reemplazaremos por std::process::exit(1);
 
 
+
 ```
 picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}
 ```

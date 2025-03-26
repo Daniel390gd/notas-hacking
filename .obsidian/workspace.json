@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a19d976c39eccdd2",
+        "id": "f3d21a5e51a62f73",
         "type": "tabs",
         "children": [
           {
-            "id": "fc176c5eaa02f2da",
+            "id": "631383f7630b469c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Capturas/Web 2/01-GET-aHEAD_IMG4.png"
+                "file": "pico CTF/Web 2/Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "01-GET-aHEAD_IMG4"
+              "icon": "lucide-file",
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -166,53 +168,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc176c5eaa02f2da",
+  "active": "631383f7630b469c",
   "lastOpenFiles": [
-    "Capturas/Web 2/01-GET-aHEAD_IMG3.png",
-    "Capturas/Web 2/01-GET-aHEAD_IMG2.png",
-    "Capturas/Web 2/01-GET-aHEAD_IMG1.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG6.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG5.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG4.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG3.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG2.png",
-    "Capturas/Web 2/03-Scavenger-Hunt_IMG1.png",
-    "Capturas/Web 2/02-Cookies_IMG2.png",
-    "Capturas/Web 2/02-Cookies_IMG1.png",
-    "pico CTF/Web 2/Scavenger Hunt.md",
-    "pico CTF/Web 2/Cookies.md",
     "pico CTF/Web 2/GET aHEAD.md",
-    "pico CTF/Web 2",
-    "Capturas/Web 2",
-    "pico CTF/Web 1/Client-side-again.md",
-    "pico CTF/Web 1/dont-use-client-side.md",
+    "pico CTF/Web 2/Cookies.md",
     "pico CTF/Web 1/where are the robots.md",
     "pico CTF/Web 1/picobrowser.md",
     "pico CTF/Web 1/logon.md",
     "pico CTF/Web 1/Insp3ct0r.md",
-    "Capturas/Web 1",
-    "Plantilla.md",
-    "pico CTF/Web 1",
-    "pico CTF/Concurso Pico CTF 2025/head-dump.md",
-    "pico CTF/Tarea1-General skills/binhexa.md",
-    "pico CTF/Tarea1-General skills/Binary Search.md",
-    "pico CTF/Tarea1-General skills/Collaborative Development.md",
+    "pico CTF/Web 1/dont-use-client-side.md",
+    "pico CTF/Web 1/Client-side-again.md",
+    "pico CTF/Tarea1-General skills/Time Machine.md",
+    "pico CTF/Tarea1-General skills/Special.md",
     "pico CTF/Tarea1-General skills/Permissions.md",
+    "pico CTF/Tarea1-General skills/Commitment Issues.md",
+    "pico CTF/Tarea1-General skills/Collaborative Development.md",
     "pico CTF/Tarea1-General skills/chrono.md",
     "pico CTF/Tarea1-General skills/Blame Game.md",
+    "pico CTF/Tarea1-General skills/binhexa.md",
+    "pico CTF/Tarea1-General skills/Binary Search.md",
     "pico CTF/Tarea1-General skills/ASCII Numbers.md",
-    "pico CTF/Tarea1-General skills/Special.md",
-    "pico CTF/Tarea1-General skills/Time Machine.md",
-    "pico CTF/Tarea1-General skills/Commitment Issues.md",
+    "pico CTF/Concurso Pico CTF 2025/Rust fixme 1.md",
+    "pico CTF/Concurso Pico CTF 2025/head-dump.md",
+    "pico CTF/Concurso Pico CTF 2025/FANTASY CTF.md",
     "pico CTF/03-General skills/Super SSH.md",
     "pico CTF/03-General skills/Serpentine.md",
     "pico CTF/03-General skills/runme.py.md",
     "pico CTF/03-General skills/PW Crack 3.md",
+    "pico CTF/03-General skills/PW Crack 2.md",
+    "pico CTF/Web 3",
+    "Capturas/Web 3",
+    "Capturas/Concurso Pico CTF 2025/head-dump_IMG2.png",
+    "Capturas/Concurso Pico CTF 2025/head-dump_IMG3.png",
+    "Capturas/Concurso Pico CTF 2025/head-dump_IMG4.png",
+    "Capturas/Concurso Pico CTF 2025/FANTASY-CTF_IMG1.png",
+    "Capturas/Concurso Pico CTF 2025/Rust-fixme-1.png",
+    "Capturas/Concurso Pico CTF 2025",
+    "Capturas/Concurso Pico CTF 2025/head-dump_IMG1.png",
+    "Capturas/Concurso Pico CTF 2025/FANTASY-CTF_IMG2.png",
+    "Capturas/Concurso Pico CTF 2025/FANTASY-CTF_IMG3.png",
+    "Capturas/Web 2/01-GET-aHEAD_IMG4.png",
+    "Capturas/Web 2/01-GET-aHEAD_IMG3.png",
+    "pico CTF/Web 2",
+    "Capturas/Web 2",
+    "Capturas/Web 1",
+    "pico CTF/Web 1",
     "pico CTF/Tarea1-General skills",
     "Capturas/Tarea1-General Skills",
-    "Capturas/03-General Skills",
-    "pico CTF/03-General skills",
-    "pico CTF/Concurso Pico CTF 2025",
-    "Capturas/02-General Skills"
+    "Capturas/03-General Skills"
   ]
 }

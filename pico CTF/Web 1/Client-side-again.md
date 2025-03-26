@@ -4,7 +4,7 @@
 Can you break into this super secure portal? `https://jupiter.challenges.picoctf.org/problem/60786/` ([link](https://jupiter.challenges.picoctf.org/problem/60786/)) or http://jupiter.challenges.picoctf.org:60786
 ### pista
 
-- What is obfuscation?
+What is obfuscation?
 ## Solución
 
 - Entramos a la pagina dada en la descripción.
@@ -23,9 +23,6 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
 ```
 picoCTF{not_this_again_ef49bf}
 ```
-
-## Notas adicionales
-
 
 ## Referencias
 

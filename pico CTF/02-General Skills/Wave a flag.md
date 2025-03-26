@@ -26,8 +26,3 @@ Can you invoke help flags for a tool or binary? [This program](https://mercury.
 picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}
 ```
 
-## Notas adicionales
-
-
-## Referencias
-

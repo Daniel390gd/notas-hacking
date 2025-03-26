@@ -18,9 +18,6 @@ Convert the following string of ASCII numbers into a readable string:`0x70 0x69 
 picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [CyberChef](https://cyberchef.org/)

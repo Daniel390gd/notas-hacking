@@ -24,9 +24,6 @@ Run the Python script and convert the given number from decimal to binary to get
 picoCTF{4ll_y0ur_b4535_722f6b39}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - [CyberChef](https://cyberchef.org/)

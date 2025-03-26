@@ -24,9 +24,3 @@ Finding a cheatsheet for bash would be really helpful!
 ```
 picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-

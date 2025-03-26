@@ -20,10 +20,3 @@
 ```
 picoCTF{@sk_th3_1nt3rn_81e716ff}
 ```
-
-## Notas adicionales
-
-
-## Referencias
-
-- 

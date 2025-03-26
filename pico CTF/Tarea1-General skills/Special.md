@@ -19,9 +19,6 @@ Don't power users get tired of making spelling mistakes in the shell? Not anymor
 picoCTF{5p311ch3ck_15_7h3_w0r57_3befb794}
 ```
 
-## Notas adicionales
-
-
 ## Referencias
 
 - https://youtu.be/6lEd1yVsxpw?si=bgrdBYA6K7_A-Mq_

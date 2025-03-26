@@ -21,10 +21,3 @@ Sometimes you need to handle process data outside of a file. Can you find a way 
 ```
 picoCTF{digital_plumb3r_06e9d954}
 ```
-
-## Notas adicionales
-
-- 
-## Referencias
-
-- 
