@@ -10,10 +10,10 @@ I don't like scrolling down to read the code of my website, so I've squished it.
 ## Solución
 
 - Ingresamos en la pagina dada en la descripción.
-![[Pasted image 20250327121430.png]]
+![[09-Unminify_IMG1.png]]
 - Inspeccionamos la pagina.
 - Vamos bajando y vemo que existen varias clases llamadas picoCTF, hasta encontrar una que contiene la bandera.
-![[Pasted image 20250327121414.png]]
+![[09-Unminify_IMG2.png]]
 
 
 ```

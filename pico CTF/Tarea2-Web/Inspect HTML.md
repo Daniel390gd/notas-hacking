@@ -9,7 +9,7 @@ What is the web inspector in web browsers?
 
 - Ingresamos a la pagina dada en la descripción.
 - Inspeccionamos la pagina y vemos que esta comentada la bandera en el html.
-![[Pasted image 20250327122602.png]]
+![[02-Inspect-HTML.png]]
 
 
 

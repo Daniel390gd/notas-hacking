@@ -8,14 +8,14 @@ Can you login to this website?Try to login [here](http://saturn.picoctf.net:586
 
 - Ingresamos a la pagina dada en la descripción.
 - Intentamos acceder usando admin como usuario y contraseña.
-![[Pasted image 20250327124339.png]]
+![[08-SQLiLite_IMG1.png]]
 - Se nos indica que no se pudo.
-![[Pasted image 20250327124356.png]]
+![[08-SQLiLite_IMG2.png]]
 - Hacemos una inyección sql.
-![[Pasted image 20250327124321.png]]
+![[08-SQLiLite_IMG3.png]]
 - Vemos que la pagina dice que pudimos acceder, ahora inspeccionamos y vemos que en el html esta la bandera.
-![[Pasted image 20250327124247.png]]
-![[Pasted image 20250327124305.png]]
+![[08-SQLiLite_IMG4.png]]
+![[08-SQLiLite_IMG5.png]]
 
 
 ```

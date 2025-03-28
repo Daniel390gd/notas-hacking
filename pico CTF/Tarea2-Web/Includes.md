@@ -10,9 +10,9 @@ Is there more code than what the inspector initially shows?
 - Ingresamos a la pagina dada en la descripción.
 - Inspeccionamos los archivos html, css y js
 - Vemos que en el archivo css esta la primera parte de la bandera.
-![[Pasted image 20250327123720.png]]
+![[01-Includes_IMG1.png]]
 - En el archivo js viene la otra parte de la bandera, solamente queda juntar las partes.
-![[Pasted image 20250327123732.png]]
+![[01-Includes_IMG2.png]]
 
 
 

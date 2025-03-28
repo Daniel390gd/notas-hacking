@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "631383f7630b469c",
+            "id": "a62be61d8e8413c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pico CTF/Tarea2-Web/Power Cookie.md",
-                "mode": "source",
-                "source": false
+                "file": "Capturas/Tarea2-Web/01-Includes_IMG1.png"
               },
-              "icon": "lucide-file",
-              "title": "Power Cookie"
+              "icon": "lucide-image",
+              "title": "01-Includes_IMG1"
             }
           }
         ]
@@ -168,28 +166,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "631383f7630b469c",
+  "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
-    "pico CTF/Tarea2-Web/Roboto Sans.md",
-    "pico CTF/Tarea2-Web/Secrets.md",
-    "pico CTF/Tarea2-Web/SQLiLite.md",
-    "Pasted image 20250327124356.png",
-    "Pasted image 20250327124339.png",
-    "Pasted image 20250327124321.png",
-    "Pasted image 20250327124305.png",
-    "Pasted image 20250327124247.png",
-    "pico CTF/Tarea2-Web/Includes.md",
     "pico CTF/Tarea2-Web/Web Decode.md",
+    "Pasted image 20250328123452.png",
+    "Capturas/Tarea2-Web/10-Web-Decode_IMG1.png",
+    "Capturas/Tarea2-Web/10-Web-Decode_IMG2.png",
+    "Capturas/Tarea2-Web/10-Web-Decode_IMG3.png",
+    "Capturas/Tarea2-Web/09-Unminify_IMG1.png",
     "pico CTF/Tarea2-Web/Unminify.md",
+    "Capturas/Tarea2-Web/09-Unminify_IMG2.png",
+    "Capturas/Tarea2-Web/08-SQLiLite_IMG1.png",
+    "pico CTF/Tarea2-Web/SQLiLite.md",
+    "Capturas/Tarea2-Web/08-SQLiLite_IMG2.png",
+    "Capturas/Tarea2-Web/08-SQLiLite_IMG3.png",
+    "Capturas/Tarea2-Web/08-SQLiLite_IMG4.png",
+    "pico CTF/Tarea2-Web/Secrets.md",
+    "pico CTF/Tarea2-Web/Roboto Sans.md",
     "pico CTF/Tarea2-Web/Power Cookie.md",
     "pico CTF/Tarea2-Web/Local Authority.md",
     "pico CTF/Tarea2-Web/IntroToBurp.md",
     "pico CTF/Tarea2-Web/Inspect HTML.md",
-    "Pasted image 20250327123732.png",
-    "Pasted image 20250327123720.png",
-    "Capturas/Web 3/03-JaWT-Scratchpad_IMG8.png",
-    "Capturas/Web 3/03-JaWT-Scratchpad_IMG7.png",
-    "Capturas/Web 3/03-JaWT-Scratchpad_IMG6.png",
+    "pico CTF/Tarea2-Web/Includes.md",
     "pico CTF/Web 3/jaWT Scratchpad.md",
     "Plantilla.md",
     "Capturas/Tarea2-Web",

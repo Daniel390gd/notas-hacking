@@ -9,13 +9,13 @@ How is the password checked on this website?
 
 - Ingresamos en la pagina dada en la descripción.
 - Intentamos acceder usando como usuario y contraseña admin.
-![[Pasted image 20250327122131.png]]
+![[04-Local-Authority_IMG1.png]]
 - Vemos que nos manda a una pagina que dice que no pudimos acceder.
-![[Pasted image 20250327122150.png]]
+![[04-Local-Authority_IMG2.png]]
 - Inspeccionando vemos que existe un archivo llamada secure.js y vemos que contiene una función llamada checkPassword que contiene la contraseña que necesitamos.
-![[Pasted image 20250327122240.png]]
+![[04-Local-Authority_IMG3.png]]
 - Volvemos a la pagina principal y usamos la contraseña para obtener la bandera.
-![[Pasted image 20250327122319.png]]
+![[04-Local-Authority_IMG4.png]]
 
 
 
