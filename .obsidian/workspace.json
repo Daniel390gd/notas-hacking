@@ -11,12 +11,14 @@
             "id": "a62be61d8e8413c8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Capturas/Tarea2-Web/01-Includes_IMG1.png"
+                "file": "pico CTF/Web 4/Trickster.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "01-Includes_IMG1"
+              "icon": "lucide-file",
+              "title": "Trickster"
             }
           }
         ]
@@ -166,21 +168,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "43ac6c7abec3eb79",
+  "active": "a62be61d8e8413c8",
   "lastOpenFiles": [
+    "pico CTF/Web 4/SOAP.md",
+    "pico CTF/Web 4/Most Cookies.md",
+    "pico CTF/Web 4/MatchTheRegex.md",
+    "Capturas/Web 4/01-MatchTheRegex_IMG1.png",
+    "Pasted image 20250331175240.png",
+    "Pasted image 20250331175319.png",
+    "Pasted image 20250331175312.png",
+    "Capturas/Web 4/01-MatchTheRegex_IMG2.png",
+    "Capturas/Web 4/01-MatchTheRegex_IMG3.png",
+    "Capturas/Web 4/01-MatchTheRegex_IMG4.png",
+    "Capturas/Web 4/02-SOAP_IMG1.png",
+    "Capturas/Web 4/02-SOAP_IMG2.png",
+    "pico CTF/Web 4/Trickster.md",
+    "Capturas/Web 4/03-Trickster_IMG1.png",
+    "Plantilla.md",
+    "pico CTF/Web 4",
+    "Capturas/Web 4",
     "pico CTF/Tarea2-Web/Web Decode.md",
-    "Pasted image 20250328123452.png",
-    "Capturas/Tarea2-Web/10-Web-Decode_IMG1.png",
-    "Capturas/Tarea2-Web/10-Web-Decode_IMG2.png",
-    "Capturas/Tarea2-Web/10-Web-Decode_IMG3.png",
-    "Capturas/Tarea2-Web/09-Unminify_IMG1.png",
     "pico CTF/Tarea2-Web/Unminify.md",
-    "Capturas/Tarea2-Web/09-Unminify_IMG2.png",
-    "Capturas/Tarea2-Web/08-SQLiLite_IMG1.png",
     "pico CTF/Tarea2-Web/SQLiLite.md",
-    "Capturas/Tarea2-Web/08-SQLiLite_IMG2.png",
-    "Capturas/Tarea2-Web/08-SQLiLite_IMG3.png",
-    "Capturas/Tarea2-Web/08-SQLiLite_IMG4.png",
     "pico CTF/Tarea2-Web/Secrets.md",
     "pico CTF/Tarea2-Web/Roboto Sans.md",
     "pico CTF/Tarea2-Web/Power Cookie.md",
@@ -189,7 +198,6 @@
     "pico CTF/Tarea2-Web/Inspect HTML.md",
     "pico CTF/Tarea2-Web/Includes.md",
     "pico CTF/Web 3/jaWT Scratchpad.md",
-    "Plantilla.md",
     "Capturas/Tarea2-Web",
     "pico CTF/Tarea2-Web",
     "pico CTF/Web 3/More SQLi.md",
@@ -201,17 +209,11 @@
     "pico CTF/Web 1/picobrowser.md",
     "pico CTF/Web 1/logon.md",
     "pico CTF/Web 1/Insp3ct0r.md",
-    "pico CTF/Web 1/dont-use-client-side.md",
-    "pico CTF/Web 1/Client-side-again.md",
-    "pico CTF/Tarea1-General skills/Time Machine.md",
-    "pico CTF/Tarea1-General skills/Special.md",
     "pico CTF/Web 3",
     "Capturas/Web 3",
     "Capturas/Concurso Pico CTF 2025",
     "pico CTF/Web 2",
     "Capturas/Web 2",
-    "Capturas/Web 1",
-    "pico CTF/Web 1",
-    "pico CTF/Tarea1-General skills"
+    "Capturas/Web 1"
   ]
 }
