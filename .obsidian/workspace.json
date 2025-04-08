@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Forensic 1/04-extensions_IMG1.png"
+                "file": "Capturas/Forensic 2/01-m00nwalk_IMG1.png"
               },
               "icon": "lucide-image",
-              "title": "04-extensions_IMG1"
+              "title": "01-m00nwalk_IMG1"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "374c3a378f08bb72",
@@ -168,21 +168,28 @@
   },
   "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
+    "pico CTF/Forensic 2/like 1000.md",
+    "Capturas/Forensic 2/04-like-1000_IMG1.png",
+    "Capturas/Forensic 2/04-like-1000_IMG2.png",
+    "Capturas/Forensic 2/04-like-1000_IMG3.png",
+    "Capturas/Forensic 2/04-like-1000_IMG4.png",
+    "pico CTF/Forensic 2/corrupt.md",
+    "Capturas/Forensic 2/03-c0rrupt_IMG1.png",
+    "Capturas/Forensic 2/03-c0rrupt_IMG2.png",
+    "Capturas/Forensic 2/03-c0rrupt_IMG3.png",
+    "Capturas/Forensic 2/03-c0rrupt_IMG4.png",
+    "Capturas/Forensic 2/03-c0rrupt_IMG5.png",
+    "Capturas/Forensic 2/03-c0rrupt_IMG6.png",
+    "pico CTF/Forensic 2/shark on wire 2.md",
+    "pico CTF/Forensic 2/WhitePages.md",
+    "pico CTF/Forensic 2/m00nwalk.md",
+    "Capturas/Forensic 2",
+    "pico CTF/Forensic 2",
     "pico CTF/Forensic 1/extensions.md",
     "pico CTF/Forensic 1/So Meta.md",
-    "Capturas/Forensic 1/04-extensions_IMG1.png",
-    "Capturas/Forensic 1/04-extensions_IMG2.png",
-    "Capturas/Forensic 1/04-extensions_IMG3.png",
     "pico CTF/Forensic 1/what Lies Within.md",
     "pico CTF/Forensic 1/shark on wire 1.md",
     "pico CTF/Forensic 1/Glory of the garden.md",
-    "Capturas/Forensic 1/03-shark-on-wire-1_IMG1.png",
-    "Capturas/Forensic 1/05-what-Lies-Within_IMG2.png",
-    "Capturas/Forensic 1/05-what-Lies-Within_IMG1.png",
-    "Capturas/Forensic 1/03-shark-on-wire-1_IMG2.png",
-    "Capturas/Forensic 1/03-shark-on-wire-1_IMG3.png",
-    "Screenshot_2025-04-01_14_35_13 1.png",
-    "Screenshot_2025-04-01_14_40_14 1.png",
     "Plantilla.md",
     "pico CTF/Web 4/Trickster.md",
     "Capturas/Forensic 1",
@@ -202,16 +209,9 @@
     "pico CTF/Tarea2-Web/IntroToBurp.md",
     "pico CTF/Tarea2-Web/Inspect HTML.md",
     "pico CTF/Tarea2-Web/Includes.md",
-    "pico CTF/Web 3/jaWT Scratchpad.md",
     "Capturas/Tarea2-Web",
     "pico CTF/Tarea2-Web",
-    "pico CTF/Web 3/More SQLi.md",
-    "pico CTF/Web 3/Irish-Name-Repo 1.md",
-    "pico CTF/Web 2/Scavenger Hunt.md",
-    "pico CTF/Web 2/GET aHEAD.md",
     "pico CTF/Web 3",
-    "Capturas/Web 3",
-    "Capturas/Concurso Pico CTF 2025",
-    "pico CTF/Web 2"
+    "Capturas/Web 3"
   ]
 }
