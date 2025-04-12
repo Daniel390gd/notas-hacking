@@ -1,0 +1,25 @@
+
+## Descripción 
+
+A developer has added profile picture upload functionality to a website. However, the implementation is flawed, and it presents an opportunity for you. Your mission, should you choose to accept it, is to navigate to the provided web page and locate the file upload area. Your ultimate goal is to find the hidden flag located in the `/root` directory.You can access the web application [here](http://standard-pizzas.picoctf.net:64079/)!
+### pista
+
+- File upload was not sanitized
+- Whenever you get a shell on a remote machine, check `sudo -l`
+## Solución
+
+
+
+
+
+
+```
+picoCTF{}
+```
+
+## Notas adicionales
+
+
+## Referencias
+
+- 
