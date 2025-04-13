@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6ec74eb157aace5",
+            "id": "f1266520a3f3a564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "pico CTF/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
-                "mode": "source",
-                "source": false
+                "file": "Capturas/Primer Parcial - Parte 2 - Web/01-Bookmarklet_IMG1.png"
               },
-              "icon": "lucide-file",
-              "title": "dont-you-love-banners"
+              "icon": "lucide-image",
+              "title": "01-Bookmarklet_IMG1"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "right": {
     "id": "374c3a378f08bb72",
@@ -168,44 +166,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b6ec74eb157aace5",
+  "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
-    "Pasted image 20250412202014.png",
-    "Pasted image 20250412202006.png",
-    "Pasted image 20250412201954.png",
-    "Pasted image 20250412201942.png",
-    "Pasted image 20250412201927.png",
-    "Pasted image 20250412201910.png",
-    "Pasted image 20250412201840.png",
-    "Pasted image 20250412201829.png",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
-    "Pasted image 20250412200222.png",
-    "Pasted image 20250412200130.png",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/Specialer.md",
-    "Captura de pantalla 2025-04-12 195007.png",
-    "pico CTF/Primer Parcial - Parte 2 - Web/Java Code Analysis!!.md",
-    "pico CTF/Primer Parcial - Parte 2 - Web/findme.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/WebSockFish.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/SSTI2.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/SSTI1.md",
     "pico CTF/Primer Parcial - Parte 2 - Web/SQL Direct.md",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
-    "pico CTF/Primer Parcial - Parte 2 - Web/SSTI 2.md",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
-    "pico CTF/Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/n0s4n1ty 1.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/Java Code Analysis!!.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/head-dump.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/findme.md",
+    "pico CTF/Primer Parcial - Parte 2 - Web/Cookie Monster Recipe.md",
     "pico CTF/Primer Parcial - Parte 2 - Web/Bookmarklet.md",
+    "Pasted image 20250413074448.png",
+    "Pasted image 20250412201840.png",
+    "Captura de pantalla 2025-04-12 075923.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/01-Bookmarklet_IMG1.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/01-Bookmarklet_IMG2.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/02-Cookie-Monster-Secret-Recipe_IMG1.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/02-Cookie-Monster-Secret-Recipe_IMG2.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/02-Cookie-Monster-Secret-Recipe_IMG3.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/02-Cookie-Monster-Secret-Recipe_IMG4.png",
+    "Capturas/Primer Parcial - Parte 2 - Web/02-Cookie-Monster-Secret-Recipe_IMG5.png",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/FANTASY CTF.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/HashingJobApp.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 1.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/Python Wrangling.md",
     "pico CTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 2.md",
     "pico CTF/Primer Parcial - Parte 1 - General Skills/Rust fixme 3.md",
-    "pico CTF/Primer Parcial - Parte 2 - Web/Cookie Monster Recipe.md",
-    "pico CTF/Primer Parcial - Parte 2 - Web/n0s4n1ty 1.md",
-    "pico CTF/Primer Parcial - Parte 2 - Web/SSTI1.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
+    "pico CTF/Primer Parcial - Parte 1 - General Skills/Specialer.md",
     "pico CTF/Web 4/MatchTheRegex.md",
     "pico CTF/Web 4/Most Cookies.md",
     "pico CTF/Web 4/SOAP.md",
     "pico CTF/Web 4/Trickster.md",
     "pico CTF/Web 3/More SQLi.md",
-    "pico CTF/Web 3/jaWT Scratchpad.md",
-    "pico CTF/Web 3/Irish-Name-Repo 1.md",
-    "pico CTF/Web 2/Cookies.md",
-    "pico CTF/Web 2/GET aHEAD.md",
     "pico CTF/Primer Parcial - Parte 2 - Web",
     "Capturas/Primer Parcial - Parte 2 - Web",
     "pico CTF/Primer Parcial - Parte 1 - General Skills",

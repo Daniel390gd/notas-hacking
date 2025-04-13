@@ -9,11 +9,11 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run�
 ## Solución
 
 - Usando el comando wget descargamos el script, la contraseña y la bandera.
-![[Pasted image 20250412131251.png]]
+![[03-Python-Wrangling_IMG1.png]]
 - Usamos el comando cat para ver los archivos, el que nos interesa es la contraseña, ademas de ver que podemos ejecutar el script con las opciones -e,-d,-h.
 - Ejecutamos el script con la opción -d y poniendo el archivo flag.txt
 - Nos pedira la contraseña, copiamos y pegamos la contraseña del archivo pw.txt y obtenemos la bandera.
-![[Pasted image 20250412132852.png]]
+![[03-Python-Wrangling_IMG2.png]]
 
 
 ```

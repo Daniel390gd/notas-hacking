@@ -10,15 +10,15 @@ Cookie Monster has hidden his top-secret cookie recipe somewhere on his website.
 ## Solución
 
 - Ingresamos a la pagina dada en la descripción.
-![[Pasted image 20250412075609.png]]
+![[02-Cookie-Monster-Secret-Recipe_IMG1.png]]
 - Intentamos acceder con admin como usuario y contraseña pero nos lanza una pista.
-![[Pasted image 20250412080044.png]]
+![[02-Cookie-Monster-Secret-Recipe_IMG2.png]]
 - Con esto regresamos al login y inspeccionamos las cookies.
-![[Pasted image 20250412075835.png]]
+![[02-Cookie-Monster-Secret-Recipe_IMG3.png]]
 - El valor de la cookie esta codificado en base 64 y contiene caracteres de escape URL, por lo que en ciberchef, usamos la receta URL Decode.
-![[Pasted image 20250412075846.png]]
+![[02-Cookie-Monster-Secret-Recipe_IMG4.png]]
 - Una vez hecho esto tomamos la salida y usamos la receta From Base64 y obtenemos la bandera.
-![[Pasted image 20250412075942.png]]
+![[02-Cookie-Monster-Secret-Recipe_IMG5.png]]
 
 
 

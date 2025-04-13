@@ -11,7 +11,7 @@ Read the comments...darn it!
 - vemos que en los comentarios indica algo sobre funciones inseguras, por lo que nos vamos al link de la documentación.
 - Modificamos la operación insegura con "unsafe {}"
 - Ejecutamos el código y obtenemos la bandera.
-![[Pasted image 20250412082125.png]]
+![[06-Rust-fixme-3.png]]
 
 
 

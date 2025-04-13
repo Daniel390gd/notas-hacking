@@ -1,7 +1,7 @@
 
 ## Descripción 
 
-
+If you want to hash with the best, beat this test!`nc saturn.picoctf.net 61646`
 ### pista
 
 - You can use a commandline tool or web app to hash text
@@ -10,13 +10,13 @@
 
 - Usamos el comando nc para conectarnos.
 - Nos pide poner como un hash md5 la palabra computer hackers, para esto nos vamos a ciberchef y usamos la receta MD5.
-![[Captura de pantalla 2025-04-12 130501.png]]
+![[02-HashingJobApp_IMG1.png]]
 - Una vez ingresado y correcto, ahora nos pide hashear la palabra "leeches"
-![[Captura de pantalla 2025-04-12 130528.png]]
+![[02-HashingJobApp_IMG2.png]]
 - Por ultima vez nos pide hashear una palabra, babies en este caso.
-![[Captura de pantalla 2025-04-12 130745.png]]
+![[02-HashingJobApp_IMG3.png]]
 - Una vez correcta la 3° palabra nos da la bandera.
-![[Pasted image 20250412130918.png]]
+![[02-HashingJobApp_IMG4.png]]
 
 
 

@@ -8,11 +8,11 @@ What does a SQL database contain?
 ## Solución
 
 - Nos conectamos al servidor.
-![[Pasted image 20250412193417.png]]
+![[08-SQL-Direct_IMG1.png]]
 - Usando help ejecutamos \d para ver las tablas y vemos que existe una llamada flag.
-![[Pasted image 20250412193510.png]]
+![[08-SQL-Direct_IMG2.png]]
 - usamos table flags; para ver su contenido y ahí esta la bandera.
-![[Pasted image 20250412193520.png]]
+![[08-SQL-Direct_IMG3.png]]
 
 
 

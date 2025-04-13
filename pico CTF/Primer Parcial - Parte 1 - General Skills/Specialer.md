@@ -10,9 +10,9 @@ What programs do you have access to?
 - Nos conectamos al servidor con el comando ssh.
 - Usando el tabulador vemos que comandos se pueden usar.
 - Usando echo podemos listar archivos.
-![[Captura de pantalla 2025-04-12 195007.png]]
+![[10-Specialer_IMG1.png]]
 - Usando echo podemos leer los archivos, leyendo uno llamado cala/kazam.txt que tiene la bandera.
-![[Pasted image 20250412195304.png]]
+![[10-Specialer_IMG2.png]]
 
 
 

@@ -10,9 +10,9 @@ Where can you get some letters?
 - Nos conectamos al servidor con ssh.
 - Vemos que no podemos usar letras ni numeros solo wildcards.
 - Usando diferentes wildcards vamos a acceder al archivo con la bandera.
-![[Pasted image 20250412200130.png]]
+![[09-SansAlpha_IMG1.png]]
 - La bandera esta codificada en base 64 usando echo | base64 -d la decodificamos.
-![[Pasted image 20250412200222.png]]
+![[09-SansAlpha_IMG2.png]]
 
 
 

@@ -16,7 +16,7 @@ Have you heard of Rust? Fix the syntax errors in this Rust file to print the fla
 - En visual Studio Code se instalarón extensiones para Rust (Rust analyzer y Code LLB).
 - Modificamos el formato de salida de la función println con las llaves "{}"
 - En otra parte del programa quitamos la variable ret y lo reemplazaremos por std::process::exit(1);
-
+![[Rust-fixme-1.png]]
 
 
 ```

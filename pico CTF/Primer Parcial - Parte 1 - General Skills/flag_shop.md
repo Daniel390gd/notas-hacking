@@ -8,12 +8,12 @@ Two's compliment can do some weird things when numbers get really big!
 ## Solución
 
 - Ingresamos con el comando nc al servidor.
-![[Pasted image 20250412192634.png]]
+![[08-flag-shop_IMG1.png]]
 - Vemos que nos es imposible comprar la bandera, ya que tenemos 1100 y la bandera cuesta más.
 - En la opción 1 hay una bandera que cuesta 900 y nos pide ingresar la cantidad de banderas a comprar al ingresar 100000000000000000 el balance aumenta.
-![[Pasted image 20250412192824.png]]
+![[08-flag-shop_IMG2.png]]
 - Compramos la bandera.
-![[Pasted image 20250412192844.png]]
+![[08-flag-shop_IMG3.png]]
 
 
 

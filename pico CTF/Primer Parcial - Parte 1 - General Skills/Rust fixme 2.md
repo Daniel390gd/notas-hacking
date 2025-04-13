@@ -11,7 +11,7 @@ https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
 - Vemos que marca errores en "borrowed_string"
 - cambiamos `borrowed_string: &String` por `borrowed_string: &mut String` para permitir modificaciones.
 - Ejecutamos el código y obtenemos la bandera.
-![[Captura de pantalla 2025-04-12 083108.png]]
+![[05-Rust-fixme-2.png]]
 
 
 
