@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Primer Parcial - Parte 2 - Web/04-n0s4n1ty-1_IMG1.png"
+                "file": "Capturas/Forensic 4/01-WebNet0_IMG1.png"
               },
               "icon": "lucide-image",
-              "title": "04-n0s4n1ty-1_IMG1"
+              "title": "01-WebNet0_IMG1"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
+                "file": "Capturas/Forensic 4/01-WebNet0_IMG1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plantilla"
+              "title": "Enlaces entrantes de 01-WebNet0_IMG1"
             }
           },
           {
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,18 +168,25 @@
   },
   "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
+    "pico CTF/Forensic 4/Matryoshka doll.md",
+    "Capturas/Forensic 4/03-Matryoshka-doll_IMG1.png",
+    "Capturas/Forensic 4/03-Matryoshka-doll_IMG2.png",
+    "Capturas/Forensic 4/03-Matryoshka-doll_IMG3.png",
+    "Capturas/Forensic 4/03-Matryoshka-doll_IMG4.png",
+    "Capturas/Forensic 4/03-Matryoshka-doll_IMG5.png",
+    "pico CTF/Forensic 4/WebNet1.md",
+    "Capturas/Forensic 4/02-WebNet1_IMG1.png",
+    "Capturas/Forensic 4/02-WebNet1_IMG2.png",
+    "Capturas/Forensic 4/02-WebNet1_IMG3.png",
+    "pico CTF/Forensic 4/WebNet0.md",
+    "Capturas/Forensic 4/01-WebNet0_IMG1.png",
+    "Capturas/Forensic 4/01-WebNet0_IMG2.png",
+    "pico CTF/Forensic 4/MacroHard WeakEdge.md",
+    "pico CTF/Forensic 4/tunn3l v1s10n.md",
+    "Capturas/Forensic 4",
+    "pico CTF/Forensic 4",
     "pico CTF/Primer Parcial - Parte 2 - Web/findme.md",
-    "Capturas/Primer Parcial - Parte 2 - Web/06-findme_IMG1.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/06-findme_IMG2.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/06-findme_IMG3.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/06-findme_IMG4.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/06-findme_IMG5.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/07-Java-Code-Analysis!!_IMG1.png",
     "pico CTF/Primer Parcial - Parte 2 - Web/Java Code Analysis!!.md",
-    "Capturas/Primer Parcial - Parte 2 - Web/07-Java-Code-Analysis!!_IMG2.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/07-Java-Code-Analysis!!_IMG3.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/07-Java-Code-Analysis!!_IMG4.png",
-    "Capturas/Primer Parcial - Parte 2 - Web/07-Java-Code-Analysis!!_IMG5.png",
     "pico CTF/Primer Parcial - Parte 2 - Web/n0s4n1ty 1.md",
     "pico CTF/Primer Parcial - Parte 2 - Web/WebSockFish.md",
     "pico CTF/Primer Parcial - Parte 2 - Web/SSTI2.md",
@@ -198,11 +205,6 @@
     "pico CTF/Primer Parcial - Parte 1 - General Skills/flag_shop.md",
     "pico CTF/Primer Parcial - Parte 1 - General Skills/SansAlpha.md",
     "pico CTF/Primer Parcial - Parte 1 - General Skills/Specialer.md",
-    "pico CTF/Web 4/MatchTheRegex.md",
-    "pico CTF/Web 4/Most Cookies.md",
-    "pico CTF/Web 4/SOAP.md",
-    "pico CTF/Web 4/Trickster.md",
-    "pico CTF/Web 3/More SQLi.md",
     "pico CTF/Primer Parcial - Parte 2 - Web",
     "Capturas/Primer Parcial - Parte 2 - Web",
     "pico CTF/Primer Parcial - Parte 1 - General Skills",
@@ -210,8 +212,6 @@
     "Capturas/Forensic 2",
     "pico CTF/Forensic 2",
     "Capturas/Forensic 1",
-    "pico CTF/Forensic 1",
-    "pico CTF/Web 4",
-    "Capturas/Web 4"
+    "pico CTF/Forensic 1"
   ]
 }
