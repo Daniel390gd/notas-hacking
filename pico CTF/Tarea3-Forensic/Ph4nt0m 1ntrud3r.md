@@ -9,18 +9,19 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 - Time is essential
 ## Solución
 
-
-
-
+- Con el comando wget descargamos la captura de paquetes.
+![[09-Ph4nt0m-1ntrud3r_IMG1.png]]
+- Abrimos wireshark.
+- Vamos a filtrar los paquetes con longitud 12.
+![[09-Ph4nt0m-1ntrud3r_IMG2.png]]
+- Vamos buscando en los paquetes filtrados las cadenas codificadas en base 64 y vamos formando la bandera.
+![[09-Ph4nt0m-1ntrud3r_IMG3.png]]
+![[09-Ph4nt0m-1ntrud3r_IMG4.png]]
 
 
 ```
-picoCTF{}
+picoCTF{1t_w4snt_th4t_34sy_tbh_4r_959f50d3}
 ```
-
-## Notas adicionales
-
-
 ## Referencias
 
-- 
+- https://youtu.be/_YKC5Smffeg?si=Pfhsxz1ZI3FpYRbN
