@@ -8,18 +8,18 @@ I found this cipher in an old book. Can you figure out what it says? Connect wit
 - Perhaps looking at history will help
 ## Solución
 
-
-
-
+- Nos conectamos con nc al puerto.
+- Nos da un mensaje encriptado.
+![[05-la-cifra-de_IMG1.png]]
+- Usando Guballa obtenemos la bandera.
+![[05-la-cifra-de_IMG2.png]]
 
 
 ```
-picoCTF{}
+picoCTF{b311a50_0r_v1gn3r3_c1ph3r7b996649}
 ```
-
-## Notas adicionales
-
 
 ## Referencias
 
-- 
+- https://youtu.be/ACVSzc-wH8o?si=gikkeoNsmdJckdnG
+- [Vigenere Solver | guballa.de](https://www.guballa.de/vigenere-solver)

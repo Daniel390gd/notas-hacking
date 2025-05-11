@@ -13,10 +13,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Tarea3-Forensic/05-Scan-Surprise_IMG1.png"
+                "file": "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png"
               },
               "icon": "lucide-image",
-              "title": "05-Scan-Surprise_IMG1"
+              "title": "03-Redaction-gone-wrong_IMG1"
+            }
+          },
+          {
+            "id": "8b83acc96e1f3096",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png"
+              },
+              "icon": "lucide-image",
+              "title": "03-Redaction-gone-wrong_IMG1"
             }
           }
         ]
@@ -168,33 +180,34 @@
   },
   "active": "43ac6c7abec3eb79",
   "lastOpenFiles": [
-    "pico CTF/Tarea3-Forensic/Secret of the Polyglot.md",
-    "Capturas/Tarea3-Forensic/07-Secret-of-the-Polygot_IMG1.png",
-    "Capturas/Tarea3-Forensic/07-Secret-of-the-Polygot_IMG2.png",
-    "Capturas/Tarea3-Forensic/07-Secret-of-the-Polygot_IMG3.png",
-    "Capturas/Tarea3-Forensic/05-Scan-Surprise_IMG1.png",
-    "pico CTF/Tarea3-Forensic/Scan Surprise.md",
-    "Capturas/Tarea3-Forensic/05-Scan-Surprise_IMG2.png",
-    "Capturas/Tarea3-Forensic/05-Scan-Surprise_IMG3.png",
-    "Capturas/Tarea3-Forensic/08-RED_IMG1.png",
     "pico CTF/Tarea3-Forensic/Redaction gone wrong.md",
+    "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png",
+    "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG2.png",
+    "pico CTF/Crypto 1/caesar.md",
     "pico CTF/Tarea3-Forensic/RED.md",
-    "Capturas/Tarea3-Forensic/08-RED_IMG2.png",
-    "Capturas/Tarea3-Forensic/08-RED_IMG3.png",
-    "Capturas/Tarea3-Forensic/09-Ph4nt0m-1ntrud3r_IMG1.png",
     "pico CTF/Tarea3-Forensic/Ph4nt0m 1ntrud3r.md",
     "pico CTF/Tarea3-Forensic/information.md",
     "pico CTF/Tarea3-Forensic/hideme.md",
     "pico CTF/Tarea3-Forensic/flags are stepic.md",
     "pico CTF/Tarea3-Forensic/CanYouSee.md",
+    "Capturas/Crypto 1/03-caesar_IMG1.png",
     "pico CTF/Crypto 1/waves over lambda.md",
     "pico CTF/Crypto 1/The numbers.md",
     "pico CTF/Crypto 1/Tapping.md",
-    "pico CTF/Crypto 1/Plantilla 1.md",
     "pico CTF/Crypto 1/la cifra de.md",
     "pico CTF/Crypto 1/interencdec.md",
     "pico CTF/Crypto 1/Easy1.md",
     "pico CTF/Crypto 1/13.md",
+    "Capturas/Crypto 1/03-caesar_IMG2.png",
+    "Capturas/Crypto 1/04-Easy-1_IMG1.png",
+    "Capturas/Crypto 1/04-Easy-1_IMG2.png",
+    "Capturas/Crypto 1/04-Easy-1_IMG3.png",
+    "Capturas/Crypto 1/02-13.png",
+    "Capturas/Crypto 1/01-The-numbers_IMG1.png",
+    "Capturas/Tarea3-Forensic/02-St3g0_IMG1.png",
+    "pico CTF/Tarea3-Forensic/St3go.md",
+    "pico CTF/Tarea3-Forensic/Secret of the Polyglot.md",
+    "pico CTF/Tarea3-Forensic/Scan Surprise.md",
     "pico CTF/Forensic 4/Operation Oni.md",
     "pico CTF/Forensic 4/Operation Orchid.md",
     "pico CTF/Crypto 1",
@@ -204,7 +217,6 @@
     "pico CTF/Forensic 4/Sleuthkit Intro.md",
     "pico CTF/Forensic 4/Disk, disk, sleuth.md",
     "pico CTF/Forensic 4/Milkslap.md",
-    "pico CTF/Tarea3-Forensic/St3go.md",
     "pico CTF/Tarea3-Forensic",
     "Capturas/Tarea3-Forensic",
     "pico CTF/Forensic 4",

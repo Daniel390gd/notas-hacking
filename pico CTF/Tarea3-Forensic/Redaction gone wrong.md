@@ -7,18 +7,20 @@ Now you DON’T see me.This [report](https://artifacts.picoctf.net/c/84/Financi
 How can you be sure of the redaction?
 ## Solución
 
-
-
+- Con wget descargamos la imagen.
+- La abrimos y vemos que hay datos censurados.
+![[03-Redaction-gone-wrong_IMG1.png]]
+- Si observamos bien se selecciona todo, por lo que copiamos y pegamos en otra parte.
+- Obtenemos la bandera.
+![[03-Redaction-gone-wrong_IMG2.png]]
 
 
 
 ```
-picoCTF{}
+picoCTF{C4n_Y0u_S33_m3_fully}
 ```
-
-## Notas adicionales
 
 
 ## Referencias
 
-- 
+- [(5562) picoGym (picoCTF) Exercise: Redaction gone wrong - YouTube](https://www.youtube.com/watch?v=VZNW2XXQZkM)
