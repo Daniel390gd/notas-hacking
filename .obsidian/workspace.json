@@ -13,10 +13,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png"
+                "file": "Capturas/Crypto 2/rsa-pop-quiz_IMG1.png"
               },
               "icon": "lucide-image",
-              "title": "03-Redaction-gone-wrong_IMG1"
+              "title": "rsa-pop-quiz_IMG1"
+            }
+          },
+          {
+            "id": "19497a38122c4cd6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Capturas/Crypto 2/rsa-pop-quiz_IMG6.png"
+              },
+              "icon": "lucide-image",
+              "title": "rsa-pop-quiz_IMG6"
             }
           },
           {
@@ -31,7 +43,8 @@
               "title": "03-Redaction-gone-wrong_IMG1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,16 +191,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "43ac6c7abec3eb79",
+  "active": "19497a38122c4cd6",
   "lastOpenFiles": [
-    "pico CTF/Tarea3-Forensic/Redaction gone wrong.md",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG5.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG4.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG3.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG2.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG1.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG6.png",
+    "Capturas/Tarea3-Forensic/01-information_IMG1.png",
+    "pico CTF/Crypto 2/rsa-pop-quiz.md",
+    "Capturas/Crypto 2",
+    "pico CTF/Crypto 2",
+    "pico CTF/Tarea3-Forensic/hideme.md",
     "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png",
+    "pico CTF/Tarea3-Forensic/Redaction gone wrong.md",
     "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG2.png",
     "pico CTF/Crypto 1/caesar.md",
     "pico CTF/Tarea3-Forensic/RED.md",
     "pico CTF/Tarea3-Forensic/Ph4nt0m 1ntrud3r.md",
     "pico CTF/Tarea3-Forensic/information.md",
-    "pico CTF/Tarea3-Forensic/hideme.md",
     "pico CTF/Tarea3-Forensic/flags are stepic.md",
     "pico CTF/Tarea3-Forensic/CanYouSee.md",
     "Capturas/Crypto 1/03-caesar_IMG1.png",
@@ -199,12 +222,6 @@
     "pico CTF/Crypto 1/Easy1.md",
     "pico CTF/Crypto 1/13.md",
     "Capturas/Crypto 1/03-caesar_IMG2.png",
-    "Capturas/Crypto 1/04-Easy-1_IMG1.png",
-    "Capturas/Crypto 1/04-Easy-1_IMG2.png",
-    "Capturas/Crypto 1/04-Easy-1_IMG3.png",
-    "Capturas/Crypto 1/02-13.png",
-    "Capturas/Crypto 1/01-The-numbers_IMG1.png",
-    "Capturas/Tarea3-Forensic/02-St3g0_IMG1.png",
     "pico CTF/Tarea3-Forensic/St3go.md",
     "pico CTF/Tarea3-Forensic/Secret of the Polyglot.md",
     "pico CTF/Tarea3-Forensic/Scan Surprise.md",
@@ -216,14 +233,11 @@
     "pico CTF/Forensic 4/Sleuthkit Apprentice.md",
     "pico CTF/Forensic 4/Sleuthkit Intro.md",
     "pico CTF/Forensic 4/Disk, disk, sleuth.md",
-    "pico CTF/Forensic 4/Milkslap.md",
     "pico CTF/Tarea3-Forensic",
     "Capturas/Tarea3-Forensic",
     "pico CTF/Forensic 4",
     "Capturas/Forensic 4",
     "Capturas/Forensic 3",
-    "pico CTF/Forensic 3",
-    "pico CTF/Primer Parcial - Parte 2 - Web",
-    "Capturas/Primer Parcial - Parte 2 - Web"
+    "pico CTF/Forensic 3"
   ]
 }
