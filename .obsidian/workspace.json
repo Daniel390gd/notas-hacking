@@ -8,39 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1266520a3f3a564",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Capturas/Crypto 2/rsa-pop-quiz_IMG1.png"
-              },
-              "icon": "lucide-image",
-              "title": "rsa-pop-quiz_IMG1"
-            }
-          },
-          {
             "id": "19497a38122c4cd6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Crypto 2/rsa-pop-quiz_IMG6.png"
+                "file": "Capturas/Crypto 3/04-b00tl3gRSA3_IMG2.png"
               },
               "icon": "lucide-image",
-              "title": "rsa-pop-quiz_IMG6"
+              "title": "04-b00tl3gRSA3_IMG2"
             }
           },
           {
-            "id": "8b83acc96e1f3096",
+            "id": "2c8047e4cbf26aeb",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png"
+                "file": "Capturas/Crypto 3/04-b00tl3gRSA3_IMG2.png"
               },
               "icon": "lucide-image",
-              "title": "03-Redaction-gone-wrong_IMG1"
+              "title": "04-b00tl3gRSA3_IMG2"
             }
           }
         ],
@@ -191,29 +179,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "19497a38122c4cd6",
+  "active": "2c8047e4cbf26aeb",
   "lastOpenFiles": [
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG5.png",
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG4.png",
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG3.png",
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG2.png",
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG1.png",
-    "Capturas/Crypto 2/rsa-pop-quiz_IMG6.png",
-    "Capturas/Tarea3-Forensic/01-information_IMG1.png",
+    "Capturas/Crypto 3/04-b00tl3gRSA3_IMG1.png",
+    "Capturas/Crypto 3/03-b00tl3gRSA2.png",
+    "Capturas/Crypto 3/02-Mind-your-Ps-and-Qs_IMG2.png",
+    "Capturas/Crypto 3/02-Mind-your-Ps-and-Qs_IMG1.png",
+    "Capturas/Crypto 3/01-Mini-RSA_IMG3.png",
+    "Capturas/Crypto 3/01-Mini-RSA_IMG2.png",
+    "Capturas/Crypto 3/01-Mini-RSA_IMG1.png",
+    "pico CTF/Crypto 3/b00tl3gRSA3.md",
+    "Capturas/Crypto 3/04-b00tl3gRSA3_IMG2.png",
+    "pico CTF/Crypto 3/b00tl3gRSA2.md",
+    "pico CTF/Crypto 3/Mind your Ps and Qs.md",
+    "pico CTF/Crypto 3/Mini RSA.md",
     "pico CTF/Crypto 2/rsa-pop-quiz.md",
+    "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png",
+    "Capturas/Crypto 2/rsa-pop-quiz_IMG1.png",
+    "Capturas/Crypto 3",
+    "pico CTF/Crypto 3",
+    "Plantilla.md",
     "Capturas/Crypto 2",
     "pico CTF/Crypto 2",
     "pico CTF/Tarea3-Forensic/hideme.md",
-    "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG1.png",
     "pico CTF/Tarea3-Forensic/Redaction gone wrong.md",
-    "Capturas/Tarea3-Forensic/03-Redaction-gone-wrong_IMG2.png",
     "pico CTF/Crypto 1/caesar.md",
     "pico CTF/Tarea3-Forensic/RED.md",
     "pico CTF/Tarea3-Forensic/Ph4nt0m 1ntrud3r.md",
     "pico CTF/Tarea3-Forensic/information.md",
     "pico CTF/Tarea3-Forensic/flags are stepic.md",
     "pico CTF/Tarea3-Forensic/CanYouSee.md",
-    "Capturas/Crypto 1/03-caesar_IMG1.png",
     "pico CTF/Crypto 1/waves over lambda.md",
     "pico CTF/Crypto 1/The numbers.md",
     "pico CTF/Crypto 1/Tapping.md",
@@ -221,23 +216,15 @@
     "pico CTF/Crypto 1/interencdec.md",
     "pico CTF/Crypto 1/Easy1.md",
     "pico CTF/Crypto 1/13.md",
-    "Capturas/Crypto 1/03-caesar_IMG2.png",
     "pico CTF/Tarea3-Forensic/St3go.md",
     "pico CTF/Tarea3-Forensic/Secret of the Polyglot.md",
     "pico CTF/Tarea3-Forensic/Scan Surprise.md",
     "pico CTF/Forensic 4/Operation Oni.md",
-    "pico CTF/Forensic 4/Operation Orchid.md",
     "pico CTF/Crypto 1",
     "Capturas/Crypto 1",
-    "Plantilla.md",
-    "pico CTF/Forensic 4/Sleuthkit Apprentice.md",
-    "pico CTF/Forensic 4/Sleuthkit Intro.md",
-    "pico CTF/Forensic 4/Disk, disk, sleuth.md",
     "pico CTF/Tarea3-Forensic",
     "Capturas/Tarea3-Forensic",
     "pico CTF/Forensic 4",
-    "Capturas/Forensic 4",
-    "Capturas/Forensic 3",
-    "pico CTF/Forensic 3"
+    "Capturas/Forensic 4"
   ]
 }
